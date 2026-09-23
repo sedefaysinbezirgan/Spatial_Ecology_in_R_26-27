@@ -1,3 +1,10 @@
 # script for using r
 samuele <- 2 + 3
 samuele 
+
+gemma <- 4 + 6
+gemma 
+samuele + gemma 
+samuele * gemma
+tma <- 8 + 2
+samuele + gemma + tma
