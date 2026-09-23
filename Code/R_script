@@ -6,5 +6,5 @@ gemma <- 4 + 6
 gemma 
 samuele + gemma 
 samuele * gemma
-tma <- 8 + 2
+tma <- 5 + 4
 samuele + gemma + tma
