@@ -3,3 +3,6 @@
 aysin <- 2+3
 sedef <- 6
 sedef+aysin
+sedef ^ aysin 
+tma <- 8+2
+sedef + aysin + tma
