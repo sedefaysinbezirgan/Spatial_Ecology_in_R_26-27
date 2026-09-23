@@ -1,1 +1,5 @@
-
+# script for using r
+#creating an object
+aysin <- 2+3
+sedef <- 6
+sedef+aysin
