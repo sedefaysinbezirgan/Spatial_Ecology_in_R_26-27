@@ -15,3 +15,4 @@ This course mainly focuses on the application of free and open source algorithms
 + 5- Remote sensing in R
 + 6- Multitemporal analysis of ecosystem functions
 + 7- Species Distribution Modelling
+
